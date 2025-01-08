@@ -2,7 +2,7 @@
 
 **Empowering Businesses with Modern IT Solutions**  
 
-At **GuideStream**, we specialize in driving digital transformation through cutting-edge technology, cloud solutions, and architectural expertise. Based in **Grünwald, near Munich, Germany**, we serve clients across **Germany, Switzerland, and Middle East**, helping them navigate complex IT challenges with clarity and efficiency.
+At **GuideStream**, we specialize in driving digital transformation through cutting-edge technology, cloud solutions, and architectural expertise. Based in **Grünwald, near Munich, Germany**, we serve clients across **Germany, Switzerland and Middle East**, helping them navigate complex IT challenges with clarity and efficiency.
 
 ## 🌟 **Our Expertise**  
 
