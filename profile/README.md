@@ -6,11 +6,9 @@ At **GuideStream**, we specialize in driving digital transformation through cutt
 
 ## 🌟 **Our Expertise**  
 
-- **CTO as a Service:** Interim leadership to guide your technology strategy.  
-- **Solution & Enterprise Architecture Consulting:** Designing scalable and efficient IT systems.  
-- **Cloud Lift & Shift:** Seamless migration to **Azure**, **AWS**, and **GCP** platforms.  
-- **QA Consulting:** Ensuring software quality meets the highest standards.  
-- **Nearshore Development Teams:** Access top talent from **Eastern Europe**.  
+- **AI Strategy & Transformation:** Interim leadership to guide your technology strategy.  
+- **AI Enablement & Training:** Empowering people to use AI safely and productively.  
+- **Solution Delivery:** End-to-end execution with near-shore excellence.
 
 ## 💡 **Why Choose Us?**  
 - Deep expertise in **modern architectures** and **AI-driven tools**.
